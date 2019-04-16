@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520310214471",
+    "firebase_url": "https://unit-13-firebase-fish-owen-kru.firebaseio.com",
+    "project_id": "unit-13-firebase-fish-owen-kru",
+    "storage_bucket": "unit-13-firebase-fish-owen-kru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520310214471:android:bd4a6cd2f2213086",
+        "android_client_info": {
+          "package_name": "edu.css.unit13_firebasefish_2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520310214471-f2tog3111q8m683t4uofn6k6vlsuj6bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.css.unit13_firebasefish_2018",
+            "certificate_hash": "f78f5b8ef128208871d54a160ce34f6a8f094740"
+          }
+        },
+        {
+          "client_id": "520310214471-355ur3vjhop1aursv91p8hs0o8ef1dlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBrPOxYqT31tC9lKg_5HuSyPyRFA7JfE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520310214471-355ur3vjhop1aursv91p8hs0o8ef1dlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
